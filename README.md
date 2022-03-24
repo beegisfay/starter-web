@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+Welcome!!!	
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -13,7 +15,7 @@ Sample website with plenty of files for demos
 THis section shows how to deploy our app
 
 ## How to Contribute
-
+	
 Please fork this repository and then issue Pull Requests for suggested changes
 
 ### Copyright
