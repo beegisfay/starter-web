@@ -14,3 +14,7 @@ THis section shows how to deploy our app
 
 ## How to Continue
 Information on where to go for more information
+
+### Copyright
+
+2014 Git.Training.
