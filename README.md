@@ -13,3 +13,4 @@ Sample website with plenty of files for demos
 THis section shows how to deploy our app
 
 ## How to Continue
+Information on where to go for more information
